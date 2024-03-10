@@ -30,7 +30,7 @@ public class Main : MonoBehaviour
         veggie.constraints = RigidbodyConstraints2D.None;
         veggie.gravityScale = 1f;
         veggie.AddForce(Vector2.down * dropForce, ForceMode2D.Impulse);
-        
+
     }
     void SpawnVegetable()
     {
