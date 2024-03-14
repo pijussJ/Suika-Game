@@ -6,4 +6,4 @@ Still in development
 Left Mouse Button - drops the fruit.
 The fruit drops where your mouse is placed at the moment!!
 ## WebGL link
-There isn't one yet :D
+https://play.unity.com/mg/other/webgl-builds-396021
